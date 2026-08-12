@@ -72,6 +72,7 @@ h3 {
     height: 585px;
     background: #ccc;
     display: flex;
+    align-items: center;
     justify-content: center;
     margin: auto;
 }
