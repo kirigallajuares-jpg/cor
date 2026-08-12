@@ -39,7 +39,4 @@
 
 .menu:hover .menu-boton {
     background-color: #555;
-    position: absolute;
-    left: 20px;
-    top: 20px;
 }
