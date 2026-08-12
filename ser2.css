@@ -1,0 +1,41 @@
+nav2 a {
+    background: #0909b8;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+nav2 {
+    position: fixed;
+    background: #0a0ad0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    margin-top: 20px;
+
+}
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2 {
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+}
+
+ul {
+    font-family: "Roboto Condensed", sans-serif;
+    display: flex;
+    padding: 0;
+    justify-content: center;
+}
