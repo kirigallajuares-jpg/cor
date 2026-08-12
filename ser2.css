@@ -14,7 +14,7 @@ body {
 h2 {
     color: #000000;
     text-align: center;
-    margin-top: 30px;
+    margin-top: -72px;
 }
 
 ul {
@@ -91,5 +91,20 @@ header1 {
 .texto {
     flex: 1;
 }
+
+.capsula {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.capsula img {
+    width: 204px;
+}
+
+.texto {
+    flex: 1;
+}
+
 
 /* aqui termena */
