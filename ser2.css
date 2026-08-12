@@ -67,13 +67,3 @@ h3 {
 .texto {
     flex: 1;
 }
-
-.img2 {
-    width: 700px;
-    height: 600px;
-    background: #ccc;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-}
