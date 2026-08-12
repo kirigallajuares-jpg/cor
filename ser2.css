@@ -61,9 +61,18 @@ h3 {
 }
 
 .contenido img {
-    width: 500px;
+    width: 513px;
 }
 
 .texto {
     flex: 1;
+}
+
+.img2 {
+    height: 585px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
 }
