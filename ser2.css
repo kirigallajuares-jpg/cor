@@ -56,7 +56,7 @@ h3 {
 
 .contenido {
     display: flex;
-    align-items: center;
+    align-items: safe;
     gap: 20px;
 }
 
