@@ -64,6 +64,15 @@ header1 {
     color: #000000;
 }
 
+.p4 {
+    font-family: Arial, sans-serif;
+    font-size: 300px;
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #faf5f5;
+}
+
 .contenido {
     display: flex;
     align-items: center;
