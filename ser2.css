@@ -68,11 +68,11 @@ h3 {
     flex: 1;
 }
 
-/*.img2 {
+.img {
     height: 585px;
     background: #ccc;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: auto;
-}*/
+}
