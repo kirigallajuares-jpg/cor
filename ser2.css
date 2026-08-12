@@ -78,14 +78,14 @@ header1 {
     flex: 1;
 }
 
-.capsula {
+.contenido {
     display: flex;
     align-items: center;
     gap: 20px;
 }
 
-.capsula img {
-    width: 204px;
+.contenido img {
+    width: 271px;
 }
 
 .texto {
