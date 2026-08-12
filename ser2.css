@@ -24,15 +24,6 @@ ul {
     justify-content: center;
 }
 
-.p2 {
-    font-family: Arial, sans-serif;
-    font-size: 100px;
-    margin-top: 50px;
-    font-weight: bold;
-    text-align: center;
-    color: #000000;
-}
-
 h3 {
     color: bisque;
     text-align: center;
@@ -66,4 +57,37 @@ header1 {
     color: #fff;
     padding: .2px;
     text-align: center;
+}
+
+/* aqui comiensa los es tilos de letra */
+.p2 {
+    font-family: Arial, sans-serif;
+    font-size: 100px;
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+}
+
+.p3 {
+    font-family: Arial, sans-serif;
+    font-size: 100px;
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+}
+
+.contenido {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.contenido img {
+    width: 513px;
+}
+
+.texto {
+    flex: 1;
 }
