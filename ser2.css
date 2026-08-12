@@ -78,19 +78,4 @@ header1 {
     flex: 1;
 }
 
-.contenido {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-
-.contenido img {
-    width: 271px;
-}
-
-.texto {
-    flex: 1;
-}
-
-
 /* aqui termena */
